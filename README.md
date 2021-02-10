@@ -1,5 +1,3 @@
-# 2Epik4u
-i do stuff 😱😱
-# also
-i do goanimate stuff here and other stuff
-
+# helo
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2Epik4u&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Epik4u&theme=dark)
